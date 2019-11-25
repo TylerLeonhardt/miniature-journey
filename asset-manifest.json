@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/miniature-journey/static/css/main.b100e6da.chunk.css",
+    "main.js": "/miniature-journey/static/js/main.10e64228.chunk.js",
+    "main.js.map": "/miniature-journey/static/js/main.10e64228.chunk.js.map",
+    "runtime-main.js": "/miniature-journey/static/js/runtime-main.fae9a8a4.js",
+    "runtime-main.js.map": "/miniature-journey/static/js/runtime-main.fae9a8a4.js.map",
+    "static/js/2.32c5feb0.chunk.js": "/miniature-journey/static/js/2.32c5feb0.chunk.js",
+    "static/js/2.32c5feb0.chunk.js.map": "/miniature-journey/static/js/2.32c5feb0.chunk.js.map",
+    "index.html": "/miniature-journey/index.html",
+    "precache-manifest.c178c3bbf9374fc5ab0900ff40ea9b08.js": "/miniature-journey/precache-manifest.c178c3bbf9374fc5ab0900ff40ea9b08.js",
+    "service-worker.js": "/miniature-journey/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/miniature-journey/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/miniature-journey/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fae9a8a4.js",
+    "static/js/2.32c5feb0.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.10e64228.chunk.js"
+  ]
+}
